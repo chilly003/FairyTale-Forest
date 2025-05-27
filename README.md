@@ -1,7 +1,7 @@
 # 🌳 동화숲 (FairyTale Forest)
 
 <p align="center">
-    <img src="./readme/이미지/Login.png">
+    <img src="./이미지/Login.png">
 </p>
 
 **"부모의 목소리로 아이의 정서를 살피는 AI 동화 서비스"**
@@ -31,8 +31,8 @@
 - 자녀 프로필 등록 및 관리
 
 <p align="center">
-    <img src="./readme/이미지/Login.png" alt="로그인 화면">
-    <img src="./readme/영상gif/Startsetting.gif" alt="프로필 설정 화면">
+    <img src="./이미지/Login.png" alt="로그인 화면">
+    <img src="./영상gif/Startsetting.gif" alt="프로필 설정 화면">
 </p>
 
 #### 2. AI 음성 동화 서비스 및 동요 서비스스
@@ -43,11 +43,11 @@
 
 <p align="center">
     동화 생성 요청
-    <img src="./readme/영상gif/동화생성요청.gif" alt="동화 서비스 화면">
+    <img src="./영상gif/동화생성요청.gif" alt="동화 서비스 화면">
     동화 생성 완료 및 상세보기
-    <img src="./readme/영상gif/동화생성완료및상세보기.gif" alt="동화 서비스 화면">
+    <img src="./영상gif/동화생성완료및상세보기.gif" alt="동화 서비스 화면">
     동요 서비스
-    <img src="./readme/영상gif/동요.gif" alt="동화 서비스 화면">
+    <img src="./영상gif/동요.gif" alt="동화 서비스 화면">
 </p>
 
 #### 3. AI 캐릭터 편지
@@ -57,9 +57,9 @@
 
 <p align="center">
     편지 보내기
-    <img src="./readme/영상gif/편지-보내기.gif" alt="편지 기능 화면">
+    <img src="./영상gif/편지-보내기.gif" alt="편지 기능 화면">
     편지함 확인(보낸 편지, 받은 편지 확인 가능)
-    <img src="./readme/영상gif/편지_답변확인.gif" alt="편지 기능 화면">
+    <img src="./영상gif/편지_답변확인.gif" alt="편지 기능 화면">
 </p>
 
 #### 4. 맞춤형 환경 설정
@@ -68,9 +68,9 @@
 
 <p align="center">
     아이의 접근을 막기 위한 곱셈 문제
-    <img src="./readme/영상gif/설정화면비밀번호.gif" alt="설정 화면">
+    <img src="./영상gif/설정화면비밀번호.gif" alt="설정 화면">
     목소리와 자녀 추가 등록
-    <img src="./readme/영상gif/목소리_자녀-추가등록.gif" alt="설정 화면">
+    <img src="./영상gif/목소리_자녀-추가등록.gif" alt="설정 화면">
 </p>
 
 ---
